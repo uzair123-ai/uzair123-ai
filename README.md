@@ -1,7 +1,7 @@
 - 👋 Hi, I’m uzair
-- 👀 I’m interested in python development
-- 🌱 I’m currently learning python
-- 📫 How to reach me ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently looking for job
+- 📫 How to reach me ... 
 uzairsaeed949@gmail.com
 
 <!---
